@@ -41,7 +41,7 @@ criaCartao(
 criaCartao(
     'Português',
     'Qual a diferença entremal e mau?',
-'"Mal" é o contrário de "bem", e "mau" é o contrário de "bom".',
+'Mal é o contrário de "bem", e "mau" é o contrário de "bom".',
 )
 criaCartao(
     'Português',
