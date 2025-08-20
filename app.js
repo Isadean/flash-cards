@@ -8,7 +8,7 @@ cartao.innerHTML=`<div class="cartao_conteudo">
                     <div class="pergunta">
                         ${pergunta}
                     </div>
-                    <div class="resposta">
+                    <div class="resposta"> 
                         ${resposta}
                     </div>
                 </div>`
